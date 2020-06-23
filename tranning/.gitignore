@@ -1,0 +1,11 @@
+
+Backend/.env
+
+.env
+
+node_modules/
+Backend/public/css/
+
+Backend/public/images/
+
+vendor
